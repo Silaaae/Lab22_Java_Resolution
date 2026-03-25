@@ -64,3 +64,4 @@ L'application lancée sur l'émulateur Pixel 6 affiche les résultats suivants :
 
 <img width="525" height="870" alt="image" src="https://github.com/user-attachments/assets/817e45e1-98f7-471e-98fb-a27c582bc1fc" />
 
+<img width="480" height="768" alt="image" src="https://github.com/user-attachments/assets/bd65c604-34f7-4e24-a8f7-f0ebdfbf1fd5" />
